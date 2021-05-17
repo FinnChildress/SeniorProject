@@ -1,0 +1,430 @@
+255 250 250		white
+248 248 255		white
+248 248 255		white
+245 245 245		white
+245 245 245		white
+220 220 220		white
+255 250 240		white
+255 250 240		white
+253 245 230		creamy
+253 245 230		creamy
+250 240 230		creamy
+250 235 215		creamy
+250 235 215		creamy
+255 239 213		creamy
+255 239 213		creamy
+255 235 205		creamy
+255 235 205		creamy
+255 228 196		creamy
+255 218 185		creamy
+255 218 185		creamy
+255 222 173		creamy
+255 222 173		creamy
+255 228 181		creamy
+255 248 220		creamy
+255 255 240		creamy
+255 250 205		creamy
+255 250 205		creamy
+255 245 238		creamy
+240 255 240		silver
+255 255 255		white
+  0   0   0		black
+ 47  79  79		gray
+ 47  79  79		gray
+ 47  79  79		gray
+ 47  79  79		gray
+105 105 105		gray
+105 105 105		gray
+105 105 105		gray
+105 105 105		gray
+112 128 144		gray
+112 128 144		gray
+112 128 144		gray
+112 128 144		gray
+119 136 153		gray
+119 136 153		gray
+119 136 153		gray
+119 136 153		gray
+190 190 190		gray
+190 190 190		gray
+211 211 211		gray
+211 211 211		gray
+211 211 211		gray
+211 211 211		gray
+255 255 224		orange
+255 255   0		orange
+255 215   0		orange
+238 221 130		orange
+238 221 130		orange
+218 165  32		orange
+184 134  11		orange
+184 134  11		orange
+188 143 143		brown
+188 143 143		brown
+205  92  92		orange
+205  92  92		orange
+139  69  19		brown
+139  69  19		brown
+160  82  45		creamy
+205 133  63		creamy
+222 184 135		creamy
+245 245 220		creamy
+245 222 179		creamy
+244 164  96		orange
+244 164  96		orange
+210 180 140		orange
+210 105  30		orange
+178  34  34		orange
+165  42  42		orange
+233 150 122		orange
+233 150 122		orange
+250 128 114		orange
+255 160 122		orange
+255 160 122		orange
+255 165   0		orange
+255 140   0		orange
+255 140   0		orange
+255 127  80		orange
+240 128 128		orange
+240 128 128		orange
+255  99  71		orange
+255  69   0		orange
+255  69   0		orange
+255   0   0		creamy
+255 105 180		creamy
+255 105 180		creamy
+255  20 147		creamy
+255  20 147		creamy
+255 192 203		creamy
+255 182 193		creamy
+255 182 193		creamy
+255 250 250		white
+238 233 233		white
+205 201 201		silver
+139 137 137		gray
+255 245 238		white
+238 229 222		white
+205 197 191		silver
+139 134 130		gray
+255 239 219		creamy
+238 223 204		creamy
+205 192 176		creamy
+139 131 120		creamy
+255 228 196		creamy
+238 213 183		creamy
+205 183 158		creamy
+139 125 107		creamy
+255 218 185		creamy
+238 203 173		creamy
+205 175 149		creamy
+139 119 101		creamy
+255 222 173		creamy
+238 207 161		creamy
+205 179 139		creamy
+139 121	 94		creamy
+255 250 205		creamy
+238 233 191		creamy
+205 201 165		creamy
+139 137 112		creamy
+255 248 220		creamy
+238 232 205		creamy
+205 200 177		creamy
+139 136 120		creamy
+255 255 240		silver
+238 238 224		silver
+205 205 193		silver
+139 139 131		silver
+255 240 245		white
+238 224 229		white
+205 193 197		white
+139 131 134		gray
+255 228 225		white
+238 213 210		white
+205 183 181		white
+139 125 123		silver
+240 255 255		white
+224 238 238		white
+193 205 205		silver
+131 139 139		gray
+ 99 184 255		white
+ 92 172 238		white
+ 79 148 205		silver
+ 54 100 139		gray
+  0 104 139		gray
+135 206 255		white
+126 192 238		white
+ 74 112 139		gray
+176 226 255		white
+ 96 123 139		gray
+198 226 255		white
+185 211 238		silver
+159 182 205		white
+108 123 139		gray
+202 225 255		white
+188 210 238		white
+162 181 205		white
+110 123 139		gray
+191 239 255		white
+178 223 238		white
+154 192 205		silver
+104 131 139		gray
+224 255 255		white
+209 238 238		white
+180 205 205		silver
+122 139 139		gray
+255 130	 71		orange
+238 121	 66		orange
+205 104	 57		orange
+139  71	 38		brown
+255 211 155		creamy
+238 197 145		creamy
+205 170 125		brown
+139 115	 85		brown
+255 231 186		creamy
+238 216 174		creamy
+205 186 150		creamy
+139 126 102		creamy
+255 165	 79		orange
+238 154	 73		orange
+205 133	 63		orange
+139  90	 43		orange
+255 127	 36		orange
+238 118	 33		orange
+205 102	 29		orange
+139  69	 19		brown
+255 160 122		creamy
+238 149 114		creamy
+205 129	 98		creamy
+139  87	 66		brown
+255 165	  0		orange
+238 154	  0		orange
+205 133	  0		orange
+139  90	  0		brown
+255 127	  0		orange
+238 118	  0		orange
+205 102	  0		orange
+139  69	  0		brown
+255  69	  0		orange
+238  64	  0		orange
+205  55	  0		orange
+139  37	  0		brown
+255 174 185		orange
+238 162 173		orange
+205 140 149		orange
+139  95 101		orange
+  0   0   0		black
+  0   0   0		black
+  3   3   3		black
+  3   3   3		black
+  5   5   5		black
+  5   5   5		black
+  8   8   8		black
+  8   8   8		black
+ 10  10  10 		black
+ 10  10  10 		black
+ 13  13  13 		black
+ 13  13  13 		black
+ 15  15  15 		black
+ 15  15  15 		black
+ 18  18  18 		black
+ 18  18  18 		black
+ 20  20  20 		black
+ 20  20  20 		black
+ 23  23  23 		black
+ 23  23  23 		black
+ 26  26  26 		black
+ 26  26  26 		black
+ 28  28  28 		black
+ 28  28  28 		black
+ 31  31  31 		black
+ 31  31  31 		black
+ 33  33  33 		black
+ 33  33  33 		black
+ 36  36  36 		black
+ 36  36  36 		black
+ 38  38  38 		gray
+ 38  38  38 		gray
+ 41  41  41 		gray
+ 41  41  41 		gray
+ 43  43  43 		gray
+ 43  43  43 		gray
+ 46  46  46 		gray
+ 46  46  46 		gray
+ 48  48  48 		gray
+ 48  48  48 		gray
+ 51  51  51 		gray
+ 51  51  51 		gray
+ 54  54  54 		gray
+ 54  54  54 		gray
+ 56  56  56 		gray
+ 56  56  56 		gray
+ 59  59  59 		gray
+ 59  59  59 		gray
+ 61  61  61 		gray
+ 61  61  61 		gray
+ 64  64  64 		gray
+ 64  64  64 		gray
+ 66  66  66 		gray
+ 66  66  66 		gray
+ 69  69  69 		gray
+ 69  69  69 		gray
+ 71  71  71 		gray
+ 71  71  71 		gray
+ 74  74  74 		gray
+ 74  74  74 		gray
+ 77  77  77 		gray
+ 77  77  77 		gray
+ 79  79  79 		gray
+ 79  79  79 		gray
+ 82  82  82 		gray
+ 82  82  82 		gray
+ 84  84  84 		gray
+ 84  84  84 		gray
+ 87  87  87 		gray
+ 87  87  87 		gray
+ 89  89  89 		gray
+ 89  89  89 		gray
+ 92  92  92 		gray
+ 92  92  92 		gray
+ 94  94  94 		gray
+ 94  94  94 		gray
+ 97  97  97 		gray
+ 97  97  97 		gray
+ 99  99  99 		gray
+ 99  99  99 		gray
+102 102 102 		gray
+102 102 102 		gray
+105 105 105 		gray
+105 105 105 		gray
+107 107 107 		gray
+107 107 107 		gray
+110 110 110 		gray
+110 110 110 		gray
+112 112 112 		gray
+112 112 112 		gray
+115 115 115 		gray
+115 115 115 		gray
+117 117 117 		gray
+117 117 117 		gray
+120 120 120 		gray
+120 120 120 		gray
+122 122 122 		gray
+122 122 122 		gray
+125 125 125 		gray
+125 125 125 		gray
+127 127 127 		gray
+127 127 127 		gray
+130 130 130 		gray
+130 130 130 		gray
+133 133 133 		gray
+133 133 133 		gray
+135 135 135 		gray
+135 135 135 		gray
+138 138 138 		gray
+138 138 138 		gray
+140 140 140 		gray
+140 140 140 		gray
+143 143 143 		gray
+143 143 143 		gray
+145 145 145 		gray
+145 145 145 		gray
+148 148 148 		gray
+148 148 148 		gray
+150 150 150 		gray
+150 150 150 		gray
+153 153 153 		silver
+153 153 153 		silver
+156 156 156 		silver
+156 156 156 		silver
+158 158 158 		silver
+158 158 158 		silver
+161 161 161 		silver
+161 161 161 		silver
+163 163 163 		silver
+163 163 163 		silver
+166 166 166 		silver
+166 166 166 		silver
+168 168 168 		silver
+168 168 168 		silver
+171 171 171 		silver
+171 171 171 		silver
+173 173 173 		silver
+173 173 173 		silver
+176 176 176 		silver
+176 176 176 		silver
+179 179 179 		silver
+179 179 179 		silver
+181 181 181 		silver
+181 181 181 		silver
+184 184 184 		silver
+184 184 184 		silver
+186 186 186 		silver
+186 186 186 		silver
+189 189 189 		silver
+189 189 189 		silver
+191 191 191 		silver
+191 191 191 		silver
+194 194 194 		silver
+194 194 194 		silver
+196 196 196 		silver
+196 196 196 		silver
+199 199 199 		white
+199 199 199 		white
+201 201 201 		white
+201 201 201 		white
+204 204 204 		white
+204 204 204 		white
+207 207 207 		white
+207 207 207 		white
+209 209 209 		white
+209 209 209 		white
+212 212 212 		white
+212 212 212 		white
+214 214 214 		white
+214 214 214 		white
+217 217 217 		white
+217 217 217 		white
+219 219 219 		white
+219 219 219 		white
+222 222 222 		white
+222 222 222 		white
+224 224 224 		white
+224 224 224 		white
+227 227 227 		white
+227 227 227 		white
+229 229 229 		white
+229 229 229 		white
+232 232 232 		white
+232 232 232 		white
+235 235 235 		white
+235 235 235 		white
+237 237 237 		white
+237 237 237 		white
+240 240 240 		white
+240 240 240 		white
+242 242 242 		white
+242 242 242 		white
+245 245 245 		white
+245 245 245 		white
+247 247 247 		white
+247 247 247 		white
+250 250 250 		white
+250 250 250 		white
+252 252 252 		white
+252 252 252 		white
+255 255 255 		white
+255 255 255 		white
+169 169 169		gray
+169 169 169		gray
+169 169 169		gray
+169 169 169		gray
+0     0 139		gray
+0     0 139		gray
+0   139 139		gray
+0   139 139		gray
+139   0 139		gray
+139   0 139		gray
+139   0   0		gray
+139   0   0		gray
+144 238 144		gray
+144 238 144		gray

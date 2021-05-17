@@ -1,0 +1,6 @@
+host: ''
+port: 3306
+database: 'cats'
+username: ''
+password: ''
+table: 'playercats'

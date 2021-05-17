@@ -1,0 +1,17 @@
+net\advancius\cat2mc\CustomCat.class
+net\advancius\cat2mc\PathfinderGoalWantsAPet.class
+net\advancius\cat2mc\catbreeds\SheddingTestBreed.class
+net\advancius\cat2mc\catbreeds\AffectionateTestBreed.class
+net\advancius\cat2mc\catbreeds\CatBreed.class
+net\advancius\cat2mc\CustomCat$2.class
+net\advancius\cat2mc\CatHandlers.class
+net\advancius\cat2mc\CustomCat$1.class
+net\advancius\cat2mc\PathfinderGoalPet.class
+net\advancius\cat2mc\catbreeds\TestCatBreed.class
+net\advancius\cat2mc\catbreeds\AggressiveTestBreed.class
+net\advancius\cat2mc\MenuCommand.class
+net\advancius\cat2mc\Cat2mc.class
+net\advancius\cat2mc\PathfinderCustomAttack.class
+net\advancius\cat2mc\PathfinderGoalCustomMeleeAttack.class
+net\advancius\cat2mc\QueryDBCommand.class
+net\advancius\cat2mc\PlayerCat.class

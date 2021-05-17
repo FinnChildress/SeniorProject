@@ -1,0 +1,14 @@
+name: Cat2mc
+version: 1.0
+main: net.advancius.cat2mc.Cat2mc
+api-version: 1.13
+
+commands:
+  qdb:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
+  c2m:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission

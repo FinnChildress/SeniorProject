@@ -1,0 +1,217 @@
+[14:59:22] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:59:23] [Worker-Main-5/INFO]: Loaded 7 recipes
+[14:59:25] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:59:25] [Server thread/INFO]: Loading properties
+[14:59:25] [Server thread/INFO]: This server is running Paper version git-Paper-431 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[14:59:25] [Server thread/INFO]: Debug logging is disabled
+[14:59:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:59:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:59:25] [Server thread/INFO]: Default game type: SURVIVAL
+[14:59:25] [Server thread/INFO]: Generating keypair
+[14:59:25] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[14:59:25] [Server thread/INFO]: Using default channel type
+[14:59:26] [Server thread/ERROR]: Ambiguous plugin name `PlugMan' for files `plugins\PlugMan.jar' and `plugins\PlugMan (1).jar' in `plugins'
+[14:59:26] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.1.29
+[14:59:26] [ForkJoinPool-1-worker-3/INFO]: [LuckPerms] It is safe to ignore any warning printed following this message starting with 'WARNING: An illegal reflective access operation has occurred, Illegal reflective access by me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader'. This is intended, and will not have any impact on the operation of LuckPerms.
+[14:59:26] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.2.0
+[14:59:26] [Server thread/INFO]: [Cat2mc] Loading Cat2mc v1.0
+[14:59:26] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[14:59:26] [Server thread/INFO]: [ProtocolSupport] Loading ProtocolSupport v1.16.5-1
+[14:59:26] [Server thread/INFO]: [ProtocolSupport] Detected Spigot server implementation type
+[14:59:26] [Server thread/INFO]: [ProtocolSupport] Status threads max count: 2, keep alive time: 60
+[14:59:26] [Server thread/INFO]: [ProtocolSupport] Login threads keep alive time: 60
+[14:59:26] [Server thread/INFO]: [ProtocolSupport] Packet data pool per io thread capacity: 50(total ~200 spread to 4 io threads)
+[14:59:26] [Server thread/INFO]: [ProtocolSupport] Assume 1.5.2 ping delay: 100
+[14:59:26] [Server thread/INFO]: [ProtocolSupport] Assume legacy ping delay: 200
+[14:59:28] [Server thread/INFO]: [ProtocolSupport] Compression level: 3
+[14:59:28] [Server thread/INFO]: [ProtocolSupport] File log is not enabled
+[14:59:28] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v1.16-551;54712e2
+[14:59:29] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@29e8b5b8]
+[14:59:29] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.1.19
+[14:59:29] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.1.19
+[14:59:29] [Server thread/INFO]: [BasicQuests] Loading BasicQuests v0.2.1
+[14:59:29] [Server thread/INFO]: [EliteMobs] Loading EliteMobs v7.2.41
+[14:59:29] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[14:59:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:59:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.1.29
+[14:59:29] [Server thread/INFO]:         __    
+[14:59:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.1.29
+[14:59:29] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:59:29] [Server thread/INFO]: 
+[14:59:29] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:59:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:59:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:59:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:59:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1455ms)
+[14:59:31] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[14:59:31] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.1.19 which is not a depend, softdepend or loadbefore of this plugin.
+[14:59:31] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:59:31] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:59:31] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[14:59:31] [Server thread/WARN]: [LuckPerms] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[14:59:31] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[14:59:31] [Server thread/INFO]: [ProtocolSupport] Enabling ProtocolSupport v1.16.5-1
+[14:59:31] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v1.16-551;54712e2
+[14:59:31] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[14:59:31] [Server thread/WARN]: 
+**********************************************
+** This FastAsyncWorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[14:59:31] [Server thread/INFO]: Ignoring invalid block minecraft:sign
+[14:59:31] [Server thread/INFO]: Ignoring invalid block minecraft:wall_sign
+[14:59:32] [Server thread/INFO]: Preparing level "world"
+[14:59:32] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:59:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:59:32] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[14:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[14:59:32] [Server thread/INFO]: Time elapsed: 310 ms
+[14:59:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:59:32] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[14:59:32] [Server thread/INFO]: Time elapsed: 169 ms
+[14:59:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:59:33] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[14:59:33] [Server thread/INFO]: Time elapsed: 241 ms
+[14:59:33] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.2.0
+[14:59:33] [Server thread/INFO]: [Cat2mc] Enabling Cat2mc v1.0
+[14:59:33] [Server thread/WARN]: Fri May 14 14:59:33 PDT 2021 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[14:59:35] [Server thread/INFO]: MYSQL CONNECTED
+[14:59:35] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.1.19
+[14:59:35] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[14:59:35] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:59:35] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:59:35] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[14:59:35] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[14:59:35] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[14:59:35] [Server thread/INFO]: [Essentials] Loaded 20977 items from items.json.
+[14:59:35] [Server thread/INFO]: [Essentials] Using locale en_US
+[14:59:35] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:59:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:59:35] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[14:59:35] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[14:59:35] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.1.19
+[14:59:35] [Server thread/INFO]: [BasicQuests] Enabling BasicQuests v0.2.1
+[14:59:35] [Server thread/INFO]: [EliteMobs] Enabling EliteMobs v7.2.41
+[14:59:35] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[14:59:35] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[14:59:35] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[14:59:35] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[14:59:35] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[14:59:35] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[14:59:35] [Server thread/INFO]: By MagmaGuy - v. 7.2.41
+[14:59:36] [Server thread/INFO]: [EliteMobs] Custom Treasure Chest in file test_custom_treasure_config.yml does not have a defined location! It will not spawn.
+[14:59:36] [Server thread/WARN]: [EliteMobs] WorldGuard compatibility is not enabled!
+[14:59:36] [Server thread/INFO]: [EliteMobs] Vault detected.
+[14:59:36] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[14:59:37] [Server thread/INFO]: [EliteMobs] [EliteMobs] World em_adventurers_guild found! Loading it in...
+[14:59:37] [Server thread/INFO]: Preparing start region for dimension minecraft:em_adventurers_guild
+[14:59:37] [Server thread/INFO]: Loaded 0 spawn chunks for world em_adventurers_guild
+[14:59:37] [Server thread/INFO]: Preparing spawn area: 0%
+[14:59:37] [Server thread/INFO]: Time elapsed: 245 ms
+[14:59:37] [Server thread/INFO]: [EliteMobs] [EliteMobs] World em_adventurers_guild has been successfully loaded! It can be accessed through the '/ag' command, unless you changed that config option!
+[14:59:38] [Server thread/INFO]: Running delayed init tasks
+[14:59:38] [Server thread/INFO]: [BasicQuests] No PlayerData file found for: Clans_MC
+[14:59:38] [Server thread/INFO]: [BasicQuests] No PlayerData file found for: SirFinnius
+[14:59:38] [Server thread/INFO]: Quest skips have been reset!
+[14:59:38] [Server thread/INFO]: [BasicQuests] Quest skips have been reset.
+[14:59:38] [Server thread/INFO]: Done (13.460s)! For help, type "help"
+[14:59:38] [Server thread/INFO]: Timings Reset
+[14:59:38] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
+[14:59:38] [Craft Scheduler Thread - 0/INFO]: [BasicQuests] Checking for Updates ... 
+[14:59:38] [Craft Scheduler Thread - 5/INFO]: [EliteMobs] Latest public release is 7.3.0
+[14:59:38] [Craft Scheduler Thread - 5/INFO]: [EliteMobs] Your version is 7.2.41
+[14:59:38] [Craft Scheduler Thread - 5/WARN]: [EliteMobs] [EliteMobs] A newer version of this plugin is available for download!
+[14:59:39] [Craft Scheduler Thread - 1/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[14:59:39] [Craft Scheduler Thread - 1/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[14:59:40] [Craft Scheduler Thread - 0/INFO]: [BasicQuests] New version (0.2) is available! You are using an old version (0.2.1).
+[14:59:41] [LoginProcessingThread/INFO]: UUID of player Monkeyboys is e203df25-d1c4-4517-8c6e-1aecba3a0f44
+[14:59:42] [Server thread/INFO]: [BasicQuests] PlayerData loaded: Monkeyboys
+[14:59:42] [Server thread/INFO]: Monkeyboys joined the game
+[14:59:42] [Server thread/INFO]: Monkeyboys[/127.0.0.1:65390] logged in with entity id 163 at ([em_adventurers_guild]282.8277384715195, 91.00001, 226.16511437277453)
+[14:59:43] [Server thread/ERROR]: [com.boydti.fawe.bukkit.FaweBukkit] Persistent Brushes Failed
+java.lang.NullPointerException: null
+	at com.google.gson.internal.$Gson$Preconditions.checkNotNull($Gson$Preconditions.java:39) ~[patched_1.16.5.jar:git-Paper-431]
+	at com.boydti.fawe.bukkit.util.ItemUtil.<init>(ItemUtil.java:33) ~[?:?]
+	at com.boydti.fawe.bukkit.FaweBukkit.getItemUtil(FaweBukkit.java:163) ~[?:?]
+	at com.sk89q.worldedit.bukkit.BukkitItemStack.getNativeItem(BukkitItemStack.java:37) ~[?:?]
+	at com.sk89q.worldedit.LocalSession.getTool(LocalSession.java:1070) ~[?:?]
+	at com.sk89q.worldedit.LocalSession.getTool(LocalSession.java:1063) ~[?:?]
+	at com.boydti.fawe.bukkit.listener.BrushListener.onPlayerItemHoldEvent(BrushListener.java:35) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor28.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-431]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-431]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-431]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1754) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.PacketPlayInHeldItemSlot.a(SourceFile:30) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.PacketPlayInHeldItemSlot.a(SourceFile:8) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1132) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1125) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeAll(IAsyncTaskHandler.java:95) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1261) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:996) ~[patched_1.16.5.jar:git-Paper-431]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:173) ~[patched_1.16.5.jar:git-Paper-431]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[14:59:47] [Paper Async Chunk Task Thread #3/ERROR]: Chunk file at [30, 17] is in the wrong location; relocating. (Expected [30, 17], got [30, 4])
+[14:59:47] [Paper Async Chunk Task Thread #5/ERROR]: Chunk file at [30, 19] is in the wrong location; relocating. (Expected [30, 19], got [30, 20])
+[14:59:47] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 20] is in the wrong location; relocating. (Expected [30, 20], got [29, 23])
+[14:59:47] [Paper Async Chunk Task Thread #3/ERROR]: Chunk file at [30, 16] is in the wrong location; relocating. (Expected [30, 16], got [30, 17])
+[14:59:47] [Paper Async Chunk Task Thread #2/ERROR]: Chunk file at [30, 13] is in the wrong location; relocating. (Expected [30, 13], got [30, 14])
+[14:59:47] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 12] is in the wrong location; relocating. (Expected [30, 12], got [30, 13])
+[14:59:51] [Server thread/INFO]: Monkeyboys issued server command: /c2m
+[14:59:58] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 10] is in the wrong location; relocating. (Expected [30, 10], got [30, 11])
+[14:59:59] [Paper Async Chunk Task Thread #1/ERROR]: Chunk file at [30, 9] is in the wrong location; relocating. (Expected [30, 9], got [30, 10])
+[14:59:59] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 8] is in the wrong location; relocating. (Expected [30, 8], got [30, 9])
+[15:00:00] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 7] is in the wrong location; relocating. (Expected [30, 7], got [30, 8])
+[15:00:00] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 6] is in the wrong location; relocating. (Expected [30, 6], got [30, 19])
+[15:00:02] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 4] is in the wrong location; relocating. (Expected [30, 4], got [30, 5])
+[15:00:03] [Paper Async Chunk Task Thread #0/ERROR]: Chunk file at [30, 3] is in the wrong location; relocating. (Expected [30, 3], got [30, 21])
+[15:00:11] [Server thread/INFO]: Stopping server
+[15:00:11] [Server thread/INFO]: [EliteMobs] Disabling EliteMobs v7.2.41
+[15:00:11] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[15:00:11] [Server thread/INFO]: [EliteMobs] All saved! Good night.
+[15:00:11] [Server thread/INFO]: [BasicQuests] Disabling BasicQuests v0.2.1
+[15:00:11] [Server thread/INFO]: [BasicQuests] Successfully saved PlayerData of 1 players
+[15:00:11] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.1.19
+[15:00:11] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.19
+[15:00:11] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[15:00:11] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v1.16-551;54712e2
+[15:00:11] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:00:11] [Server thread/INFO]: [ProtocolSupport] Disabling ProtocolSupport v1.16.5-1
+[15:00:11] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[15:00:11] [Server thread/INFO]: [Cat2mc] Disabling Cat2mc v1.0
+[15:00:11] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.2.0
+[15:00:11] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.29
+[15:00:11] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:00:11] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:00:11] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:00:11] [Server thread/INFO]: Saving players
+[15:00:11] [Server thread/INFO]: Monkeyboys lost connection: Server closed
+[15:00:11] [Server thread/INFO]: Monkeyboys left the game
+[15:00:11] [Server thread/INFO]: Saving worlds
+[15:00:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:00:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:00:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:00:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:00:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[em_adventurers_guild]'/minecraft:em_adventurers_guild
+[15:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (em_adventurers_guild): All chunks are saved
+[15:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (em_adventurers_guild): All chunks are saved
+[15:00:14] [Server thread/INFO]: Flushing Chunk IO
+[15:00:14] [Server thread/INFO]: Closing Thread Pool
+[15:00:14] [Server thread/INFO]: Closing Server

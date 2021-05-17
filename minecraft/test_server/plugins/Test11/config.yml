@@ -1,0 +1,6 @@
+host: cat2mc.xyz
+port: 3306
+database: cats
+username: cat2mc_minecraft
+password: cat2mc_minecraft
+table: playercats
